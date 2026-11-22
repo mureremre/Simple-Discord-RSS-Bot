@@ -1,0 +1,15 @@
+# Secrets / local config
+.env
+
+# Bot's runtime state
+rss_last_entries.json
+rss_feeds.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
