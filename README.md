@@ -12,7 +12,7 @@ with a slash command, no restart needed.
 - Posts new entries oldest-first, with title, link, cover image and timestamp.
 - Pings a shared "update" role, if one is configured.
 - Remembers what it has already posted, per feed, so restarts don't re-post.
-- A feed's first check is recorded quietly — it won't flood the channel with
+- A feed's first check is recorded quietly, it won't flood the channel with
   its whole back catalog.
 - A sudden burst of "new" items is treated as the feed changing, not a wave
   of real releases: everything is marked seen and nothing is posted.
