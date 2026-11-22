@@ -1,7 +1,7 @@
 # RSS Release Bot
 
 A small Discord bot that watches RSS feeds and posts every new entry to a
-channel as a rich embed — title, link, cover image, and an optional role
+channel as a rich embed, title, link, cover image, and an optional role
 ping. Feeds aren't hardcoded in config: add as many as you want at runtime
 with a slash command, no restart needed.
 
